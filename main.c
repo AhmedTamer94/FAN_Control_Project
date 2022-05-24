@@ -3,6 +3,7 @@
  * *****************************************************************************************
  *
  * This project control the speed of a motor according to temperature sensor reading values
+ * Download the zip file for the proteus simulation and the whole source code (the MCU is atmega16)
  *
  * ******************************************************************************************
  *  Created on: May 23, 2022
